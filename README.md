@@ -1,4 +1,6 @@
-## Airbnb Clone – Full-Stack Booking App
+# Airbnb Clone – Full-Stack Booking App
+
+## Project Brief 
 This is a clone of an Airbnb accommodation booking platform where users can browse property and complete bookings
 The project goal is to create a functional booking platform with user friendly and responsive designs 
 The tech stack to be used include HTML,CSS and Javascript (React) and other tools include figma for design and git/github for version control
@@ -7,22 +9,22 @@ The project will cover frontend development, backend APIs, database design, and 
 
 ------
 
-## UI/UX Design Planning.
+# UI/UX Design Planning.
 
-# Design Goals 
---Create intuitive booking flow
---Maintain visual consistency
---Ensure fast loading times
---Prioritize mobile responsiveness
+## Design Goals 
+- Create intuitive booking flow
+- Maintain visual consistency
+- Ensure fast loading times
+- Prioritize mobile responsiveness
 
-# Key Features
+## Key Features
 
---Property search and filtering
---Detailed property viewing
---Secure checkout process
---User Login authentication
+- Property search and filtering
+- Detailed property viewing
+- Secure checkout process
+- User Login authentication
 
-# primary pages 
+## primary pages 
 
 | Page                  | Description                                                                      |
 |-----------------------|----------------------------------------------------------------------------------|
@@ -30,16 +32,16 @@ The project will cover frontend development, backend APIs, database design, and 
 | **Listing Details**   | Full property information with images, details, and a booking form              |
 | **Checkout View**     | Simple, secure payment and booking confirmation page          
 
-# Importance of User-Friendly Design
+## Importance of User-Friendly Design
 A well-designed booking system reduces friction in the user journey, increases conversion rates, and improves customer satisfaction. Clear navigation, intuitive interfaces, and responsive design are critical for success.
 
 # Color Styles
 
---Primary Color: #FF5A5F
---Secondary Color: #008489
---Background Color: #FFFFFF
---Primary Text Color: #222222
---Secondary Text Color: #717171
+- Primary Color: #FF5A5F
+- Secondary Color: #008489
+- Background Color: #FFFFFF
+- Primary Text Color: #222222
+- Secondary Text Color: #717171
 
 # Typography
 
@@ -71,22 +73,22 @@ Identifying the design properties (such as colors, fonts, spacing, and layout st
 | **Scrum Master**     | Facilitates agile processes, removes blockers, and organizes team meetings        |
 
 
-## UI Component Patterns
+# UI Component Patterns
 
-# Navbar
-Logo
-Search bar
-User navigation
-Responsive menu
+## Navbar
+- Logo
+- Search bar
+- User navigation
+- Responsive menu
 
-# Property Card
-Property image
-Basic details (price, location, rating)
-Favorite button
-Responsive layout
+## Property Card
+- Property image
+- Basic details (price, location, rating)
+- Favorite button
+- Responsive layout
 
-# Footer
-Site links
-Company information
-Social media links
-Copyright information
+## Footer
+- Site links
+- Company information
+- Social media links
+- Copyright information
