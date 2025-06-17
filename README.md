@@ -59,15 +59,16 @@ Identifying the design properties (such as colors, fonts, spacing, and layout st
 
 ## Project Roles and Responsibilities.
 
-Role                    	Responsibilities
-Project Manager	            Oversees timeline, coordinates team, manages deliverables
-Frontend Developers	        Implements UI components, ensures responsive design
-Backend Developers	        Builds APIs, manages database, implements business logic
-Designers	                Creates mockups, maintains design system, ensures UX quality
-QA/Testers	                Writes test cases, performs testing, reports bugs
-DevOps Engineers        	Manages deployment, CI/CD pipeline, server infrastructure
-Product Owner	            Defines requirements, prioritizes features, represents stakeholders
-Scrum Master	            Facilitates agile processes, removes blockers, organizes meetings
+| **Role**             | **Responsibilities**                                                              |
+|----------------------|------------------------------------------------------------------------------------|
+| **Project Manager**  | Oversees timeline, coordinates the team, and manages deliverables                 |
+| **Frontend Developers** | Implements UI components and ensures responsive design                           |
+| **Backend Developers** | Builds APIs, manages the database, and handles business logic                    |
+| **Designers**        | Creates mockups, maintains the design system, and ensures UX quality              |
+| **QA/Testers**       | Writes test cases, performs testing, and reports bugs                             |
+| **DevOps Engineers** | Manages deployment, CI/CD pipelines, and server infrastructure                    |
+| **Product Owner**    | Defines requirements, prioritizes features, and represents stakeholders           |
+| **Scrum Master**     | Facilitates agile processes, removes blockers, and organizes team meetings        |
 
 
 ## UI Component Patterns
